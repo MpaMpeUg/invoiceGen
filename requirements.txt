@@ -1,0 +1,6 @@
+flask
+requests
+waitress
+Gunicorn
+urllib3
+squareup
